@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Timer Lab</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SeqTitle">Название</string>
+    <string name="add_sequence_name">Название последовательности</string>
+    <string name="preparation">Подготовка</string>
+    <string name="preparation_editText">сек</string>
+    <string name="repeatNum_editText">число повторений</string>
+    <string name="work">Работа</string>
+    <string name="rest">Отдых</string>
+    <string name="cycles_work_and_rest">Циклы (работа и отдых)</string>
+    <string name="sets_repeat_all">Сеты (повторить всё)</string>
+    <string name="rest_between_sets">Отдых между сетами</string>
+    <string name="calm">Успокоиться</string>
+    <string name="add_sequence">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="update">Обновить</string>
+    <string name="delete">Удалить</string>
+    <string name="confirmColor">Ок</string>
+    <string name="cancelColor">Отменить</string>
+    <string name="color">Цвет</string>
+    <string name="back">Назад</string>
+    <string name="tabata_timer">Timer</string>
+    <string name="open">Открыть</string>
+    <string name="start">Старт</string>
+    <string name="pause">Пауза</string>
+    <string name="stop">Стоп</string>
+    <string name="next">След</string>
+    <string name="prev">Пред</string>
+
+    <string name="title_activity_settings">Настройки</string>
+    <string name="settings">Настройки</string>
+    <string name="newSeq">Добавить</string>
+    <string name="unnamed">безымянный</string>
+    <string name="chooseColor">Выберите цвет</string>
+
+    <string name="theme">Тема</string>
+    <string name="night">Ночь</string>
+    <string name="nightOn">Ночная тема активирована</string>
+    <string name="nightOff">Дневная тема активирована</string>
+    <string name="language">Язык</string>
+    <string name="text">Текст</string>
+    <string name="fontSize">Размер шрифта</string>
+    <string name="deleteAll">Удалить данные</string>
+
+</resources>
